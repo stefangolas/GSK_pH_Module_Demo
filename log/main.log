@@ -1,0 +1,207 @@
+[2022-10-25 23:04:07,782] root INFO ###########################################################################
+[2022-10-25 23:04:07,782] root INFO #                                                                         #
+[2022-10-25 23:04:07,782] root INFO #     Begin execution of C:\Users\stefa\GSK_pH_Module_Demo\ph_demo.py     #
+[2022-10-25 23:04:07,782] root INFO #                                                                         #
+[2022-10-25 23:04:07,782] root INFO ###########################################################################
+[2022-10-25 23:04:07,782] pyhamilton.interface INFO starting a Hamilton interface
+[2022-10-25 23:04:07,782] pyhamilton.interface INFO started the oem application for simulation
+[2022-10-25 23:04:07,784] pyhamilton.interface INFO started the server thread
+[2022-10-25 23:04:07,784] root INFO initialize: synchronously initialize the robot
+[2022-10-25 23:04:19,858] root INFO get_plate: Getting plate seqpH_Module_0001
+[2022-10-25 23:04:20,716] root INFO move_plate: Moving plate seqCalibration_1
+[2022-10-25 23:04:29,429] root INFO move_plate: Moving plate seqCalibration_2
+[2022-10-25 23:04:38,189] root INFO move_plate: Moving plate seqVerify
+[2022-10-25 23:04:44,322] root INFO move_plate: Moving plate seqWash_Module
+[2022-10-25 23:04:47,871] root INFO move_plate: Moving plate seqDryer_Module
+[2022-10-25 23:04:52,624] root INFO move_plate: Moving plate seqDryer_Module
+[2022-10-25 23:04:59,260] root INFO place_plate: Placing plate seqpH_Module_0001
+[2022-10-25 23:05:02,082] pyhamilton.interface INFO sending end run command to simulator
+[2022-10-25 23:05:03,623] pyhamilton.interface ERROR HamiltonTimeoutError('Timed out after 1.5 sec while waiting for response id 0x0')
+[2022-10-25 23:05:03,623] pyhamilton.interface INFO disconnected from server
+[2022-10-25 23:05:03,732] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-10-25 23:05:03,732] urllib3.util.retry DEBUG Converted retries value: 20 -> Retry(total=20, connect=None, read=None, redirect=None, status=None)
+[2022-10-25 23:05:03,732] urllib3.connectionpool DEBUG Starting new HTTP connection (1): 127.0.0.1:3221
+[2022-10-25 23:05:03,732] urllib3.connectionpool DEBUG http://127.0.0.1:3221 "GET / HTTP/1.1" 200 None
+[2022-10-25 23:05:03,732] pyhamilton.interface INFO dummy get request sent to server
+[2022-10-25 23:05:03,744] pyhamilton.interface INFO server thread exited
+[2022-10-26 08:40:35,727] root INFO ###########################################################################
+[2022-10-26 08:40:35,727] root INFO #                                                                         #
+[2022-10-26 08:40:35,727] root INFO #     Begin execution of C:\Users\stefa\GSK_pH_Module_Demo\ph_demo.py     #
+[2022-10-26 08:40:35,727] root INFO #                                                                         #
+[2022-10-26 08:40:35,727] root INFO ###########################################################################
+[2022-10-26 08:40:35,728] pyhamilton.interface INFO starting a Hamilton interface
+[2022-10-26 08:40:35,728] pyhamilton.interface INFO started the oem application for simulation
+[2022-10-26 08:40:35,728] pyhamilton.interface INFO started the server thread
+[2022-10-26 08:40:35,728] root INFO initialize: synchronously initialize the robot
+[2022-10-26 08:40:51,911] root INFO get_plate: Getting plate seqpH_Module_0001
+[2022-10-26 08:40:52,891] root INFO move_plate: Moving plate seqCalibration_1
+[2022-10-26 08:41:01,814] root INFO move_plate: Moving plate seqCalibration_2
+[2022-10-26 08:41:10,723] root INFO move_plate: Moving plate seqVerify
+[2022-10-26 08:41:17,224] root INFO move_plate: Moving plate seqWash_Module
+[2022-10-26 08:41:20,803] root INFO move_plate: Moving plate seqDryer_Module
+[2022-10-26 08:41:25,652] root INFO move_plate: Moving plate seqDryer_Module
+[2022-10-26 08:41:32,358] root INFO place_plate: Placing plate seqpH_Module_0001
+[2022-10-26 08:41:35,513] pyhamilton.interface INFO sending end run command to simulator
+[2022-10-26 08:41:37,033] pyhamilton.interface ERROR HamiltonTimeoutError('Timed out after 1.5 sec while waiting for response id 0x0')
+[2022-10-26 08:41:37,033] pyhamilton.interface INFO disconnected from server
+[2022-10-26 08:41:37,141] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-10-26 08:41:37,141] urllib3.util.retry DEBUG Converted retries value: 20 -> Retry(total=20, connect=None, read=None, redirect=None, status=None)
+[2022-10-26 08:41:37,146] urllib3.connectionpool DEBUG Starting new HTTP connection (1): 127.0.0.1:3221
+[2022-10-26 08:41:37,147] urllib3.connectionpool DEBUG http://127.0.0.1:3221 "GET / HTTP/1.1" 200 None
+[2022-10-26 08:41:37,147] pyhamilton.interface INFO dummy get request sent to server
+[2022-10-26 08:41:37,147] pyhamilton.interface INFO server thread exited
+[2022-10-26 08:46:46,674] root INFO ###########################################################################
+[2022-10-26 08:46:46,674] root INFO #                                                                         #
+[2022-10-26 08:46:46,674] root INFO #     Begin execution of C:\Users\stefa\GSK_pH_Module_Demo\ph_demo.py     #
+[2022-10-26 08:46:46,674] root INFO #                                                                         #
+[2022-10-26 08:46:46,674] root INFO ###########################################################################
+[2022-10-26 08:46:46,675] pyhamilton.interface INFO starting a Hamilton interface
+[2022-10-26 08:46:46,675] pyhamilton.interface INFO started the oem application for simulation
+[2022-10-26 08:46:46,675] pyhamilton.interface INFO started the server thread
+[2022-10-26 08:46:46,675] root INFO initialize: synchronously initialize the robot
+[2022-10-26 08:47:00,614] root INFO get_plate: Getting plate seqpH_Module_0001
+[2022-10-26 08:47:01,698] root INFO move_plate: Moving plate seqCalibration_1
+[2022-10-26 08:47:10,735] root INFO move_plate: Moving plate seqCalibration_2
+[2022-10-26 08:47:19,752] root INFO move_plate: Moving plate seqVerify
+[2022-10-26 08:47:26,159] root INFO move_plate: Moving plate seqWash_Module
+[2022-10-26 08:47:30,057] root INFO move_plate: Moving plate seqDryer_Module
+[2022-10-26 08:47:35,136] root INFO move_plate: Moving plate seqDryer_Module
+[2022-10-26 08:47:42,151] root INFO place_plate: Placing plate seqpH_Module_0001
+[2022-10-26 08:47:45,934] pyhamilton.interface INFO sending end run command to simulator
+[2022-10-26 08:47:47,454] pyhamilton.interface ERROR HamiltonTimeoutError('Timed out after 1.5 sec while waiting for response id 0x0')
+[2022-10-26 08:47:47,455] pyhamilton.interface INFO disconnected from server
+[2022-10-26 08:47:47,564] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-10-26 08:47:47,564] urllib3.util.retry DEBUG Converted retries value: 20 -> Retry(total=20, connect=None, read=None, redirect=None, status=None)
+[2022-10-26 08:47:47,567] urllib3.connectionpool DEBUG Starting new HTTP connection (1): 127.0.0.1:3221
+[2022-10-26 08:47:47,567] urllib3.connectionpool DEBUG http://127.0.0.1:3221 "GET / HTTP/1.1" 200 None
+[2022-10-26 08:47:47,568] pyhamilton.interface INFO dummy get request sent to server
+[2022-10-26 08:47:47,568] pyhamilton.interface INFO server thread exited
+[2022-10-26 08:54:32,932] root INFO ###########################################################################
+[2022-10-26 08:54:32,932] root INFO #                                                                         #
+[2022-10-26 08:54:32,933] root INFO #     Begin execution of C:\Users\stefa\GSK_pH_Module_Demo\ph_demo.py     #
+[2022-10-26 08:54:32,933] root INFO #                                                                         #
+[2022-10-26 08:54:32,933] root INFO ###########################################################################
+[2022-10-26 08:54:32,933] pyhamilton.interface INFO starting a Hamilton interface
+[2022-10-26 08:54:32,933] pyhamilton.interface INFO started the oem application for simulation
+[2022-10-26 08:54:32,933] pyhamilton.interface INFO started the server thread
+[2022-10-26 08:54:32,933] root INFO initialize: synchronously initialize the robot
+[2022-10-26 08:54:44,547] root INFO get_plate: Getting plate seqpH_Module_0001
+[2022-10-26 08:54:45,419] root INFO move_plate: Moving plate seqCalibration_1
+[2022-10-26 08:54:50,331] root INFO move_plate: Moving plate seqCalibration_2
+[2022-10-26 08:54:55,353] root INFO move_plate: Moving plate seqVerify
+[2022-10-26 08:55:02,400] root INFO move_plate: Moving plate seqWash_Module
+[2022-10-26 08:55:06,424] root INFO move_plate: Moving plate seqDryer_Module
+[2022-10-26 08:55:11,821] root INFO move_plate: Moving plate seqDryer_Module
+[2022-10-26 08:55:19,071] root INFO place_plate: Placing plate seqpH_Module_0001
+[2022-10-26 08:55:23,193] pyhamilton.interface INFO sending end run command to simulator
+[2022-10-26 08:55:24,706] pyhamilton.interface ERROR HamiltonTimeoutError('Timed out after 1.5 sec while waiting for response id 0x0')
+[2022-10-26 08:55:24,706] pyhamilton.interface INFO disconnected from server
+[2022-10-26 08:55:24,814] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-10-26 08:55:24,815] urllib3.util.retry DEBUG Converted retries value: 20 -> Retry(total=20, connect=None, read=None, redirect=None, status=None)
+[2022-10-26 08:55:24,817] urllib3.connectionpool DEBUG Starting new HTTP connection (1): 127.0.0.1:3221
+[2022-10-26 08:55:24,817] urllib3.connectionpool DEBUG http://127.0.0.1:3221 "GET / HTTP/1.1" 200 None
+[2022-10-26 08:55:24,818] pyhamilton.interface INFO dummy get request sent to server
+[2022-10-26 08:55:24,818] pyhamilton.interface INFO server thread exited
+[2022-10-26 09:26:43,737] root INFO ###########################################################################
+[2022-10-26 09:26:43,737] root INFO #                                                                         #
+[2022-10-26 09:26:43,737] root INFO #     Begin execution of C:\Users\stefa\GSK_pH_Module_Demo\ph_demo.py     #
+[2022-10-26 09:26:43,737] root INFO #                                                                         #
+[2022-10-26 09:26:43,737] root INFO ###########################################################################
+[2022-10-26 09:26:43,738] pyhamilton.interface INFO starting a Hamilton interface
+[2022-10-26 09:26:43,738] pyhamilton.interface INFO started the oem application for simulation
+[2022-10-26 09:26:43,738] pyhamilton.interface INFO started the server thread
+[2022-10-26 09:26:43,738] root INFO initialize: synchronously initialize the robot
+[2022-10-26 09:26:55,836] root INFO get_plate: Getting plate seqpH_Module_0001
+[2022-10-26 09:26:56,703] root INFO move_plate: Moving plate seqCalibration_1
+[2022-10-26 09:27:01,513] root INFO move_plate: Moving plate seqCalibration_2
+[2022-10-26 09:27:06,321] root INFO move_plate: Moving plate seqVerify
+[2022-10-26 09:27:12,628] root INFO move_plate: Moving plate seqWash_Module
+[2022-10-26 09:27:16,434] root INFO move_plate: Moving plate seqDryer_Module
+[2022-10-26 09:27:21,382] root INFO move_plate: Moving plate seqDryer_Module
+[2022-10-26 09:27:28,298] root INFO place_plate: Placing plate seqpH_Module_0001
+[2022-10-26 09:27:31,238] pyhamilton.interface INFO sending end run command to simulator
+[2022-10-26 09:27:32,763] pyhamilton.interface ERROR HamiltonTimeoutError('Timed out after 1.5 sec while waiting for response id 0x0')
+[2022-10-26 09:27:32,763] pyhamilton.interface INFO disconnected from server
+[2022-10-26 09:27:32,873] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-10-26 09:27:32,873] urllib3.util.retry DEBUG Converted retries value: 20 -> Retry(total=20, connect=None, read=None, redirect=None, status=None)
+[2022-10-26 09:27:32,877] urllib3.connectionpool DEBUG Starting new HTTP connection (1): 127.0.0.1:3221
+[2022-10-26 09:27:32,878] urllib3.connectionpool DEBUG http://127.0.0.1:3221 "GET / HTTP/1.1" 200 None
+[2022-10-26 09:27:32,878] pyhamilton.interface INFO dummy get request sent to server
+[2022-10-26 09:27:32,878] pyhamilton.interface INFO server thread exited
+[2022-10-26 09:28:33,224] root INFO ###########################################################################
+[2022-10-26 09:28:33,224] root INFO #                                                                         #
+[2022-10-26 09:28:33,224] root INFO #     Begin execution of C:\Users\stefa\GSK_pH_Module_Demo\ph_demo.py     #
+[2022-10-26 09:28:33,224] root INFO #                                                                         #
+[2022-10-26 09:28:33,225] root INFO ###########################################################################
+[2022-10-26 09:28:33,225] pyhamilton.interface INFO starting a Hamilton interface
+[2022-10-26 09:28:33,225] pyhamilton.interface INFO started the oem application for simulation
+[2022-10-26 09:28:33,226] pyhamilton.interface INFO started the server thread
+[2022-10-26 09:28:33,226] root INFO initialize: synchronously initialize the robot
+[2022-10-26 09:28:44,669] root INFO get_plate: Getting plate seqpH_Module_0001
+[2022-10-26 09:28:45,431] root INFO move_plate: Moving plate seqCalibration_1
+[2022-10-26 09:28:50,024] root INFO move_plate: Moving plate seqCalibration_2
+[2022-10-26 09:29:48,538] pyhamilton.interface INFO sending end run command to simulator
+[2022-10-26 09:29:48,724] pyhamilton.interface INFO disconnected from server
+[2022-10-26 09:29:48,834] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-10-26 09:29:48,834] urllib3.util.retry DEBUG Converted retries value: 20 -> Retry(total=20, connect=None, read=None, redirect=None, status=None)
+[2022-10-26 09:29:48,837] urllib3.connectionpool DEBUG Starting new HTTP connection (1): 127.0.0.1:3221
+[2022-10-26 09:29:48,837] urllib3.connectionpool DEBUG http://127.0.0.1:3221 "GET / HTTP/1.1" 200 None
+[2022-10-26 09:29:48,838] pyhamilton.interface INFO dummy get request sent to server
+[2022-10-26 09:29:48,838] pyhamilton.interface INFO server thread exited
+[2022-10-26 09:29:48,838] root ERROR Traceback (most recent call last):
+[2022-10-26 09:29:48,839] root ERROR   File "C:\Users\stefa\GSK_pH_Module_Demo\ph_demo.py", line 42, in <module>
+[2022-10-26 09:29:48,845] root ERROR ph_module.calibration(solution_seq = 'seqCalibration_2', 
+[2022-10-26 09:29:48,846] root ERROR   File "C:\Users\stefa\GSK_pH_Module_Demo\ph_utils.py", line 59, in calibration
+[2022-10-26 09:29:48,846] root ERROR ph_calibrate(self.hamilton, 
+[2022-10-26 09:29:48,846] root ERROR   File "c:\users\stefa\pyhamilton\pyhamilton\pH_command_wrappers.py", line 68, in ph_calibrate
+[2022-10-26 09:29:48,846] root ERROR data = ham.wait_on_response(cmd, raise_first_exception=True, timeout=300)
+[2022-10-26 09:29:48,847] root ERROR   File "c:\users\stefa\pyhamilton\pyhamilton\interface.py", line 462, in wait_on_response
+[2022-10-26 09:29:48,847] root ERROR time.sleep(.1)
+[2022-10-26 09:29:48,847] root ERROR KeyboardInterrupt
+[2022-10-26 09:29:48,848] root ERROR During handling of the above exception, another exception occurred:
+[2022-10-26 09:29:48,848] root ERROR Traceback (most recent call last):
+[2022-10-26 09:29:48,848] root ERROR   File "C:\Users\stefa\GSK_pH_Module_Demo\ph_demo.py", line 60, in <module>
+[2022-10-26 09:29:48,849] root ERROR writer.writerow([key, value])
+[2022-10-26 09:29:48,849] root ERROR   File "c:\users\stefa\pyhamilton\pyhamilton\interface.py", line 378, in __exit__
+[2022-10-26 09:29:48,849] root ERROR self.stop()
+[2022-10-26 09:29:48,849] root ERROR   File "c:\users\stefa\pyhamilton\pyhamilton\interface.py", line 342, in stop
+[2022-10-26 09:29:48,850] root ERROR self.wait_on_response(self.send_command(command='end', id=hex(0)), timeout=1.5)
+[2022-10-26 09:29:48,851] root ERROR   File "c:\users\stefa\pyhamilton\pyhamilton\interface.py", line 462, in wait_on_response
+[2022-10-26 09:29:48,851] root ERROR time.sleep(.1)
+[2022-10-26 09:29:48,852] root ERROR KeyboardInterrupt
+[2022-10-26 09:29:49,959] root INFO ###########################################################################
+[2022-10-26 09:29:49,959] root INFO #                                                                         #
+[2022-10-26 09:29:49,959] root INFO #     Begin execution of C:\Users\stefa\GSK_pH_Module_Demo\ph_demo.py     #
+[2022-10-26 09:29:49,959] root INFO #                                                                         #
+[2022-10-26 09:29:49,959] root INFO ###########################################################################
+[2022-10-26 09:29:49,959] pyhamilton.interface INFO starting a Hamilton interface
+[2022-10-26 09:29:49,959] pyhamilton.interface INFO started the oem application for simulation
+[2022-10-26 09:29:49,959] pyhamilton.interface INFO started the server thread
+[2022-10-26 09:29:49,960] root INFO initialize: synchronously initialize the robot
+[2022-10-26 09:30:03,497] pyhamilton.interface INFO sending end run command to simulator
+[2022-10-26 09:30:03,668] pyhamilton.interface INFO disconnected from server
+[2022-10-26 09:30:03,773] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2022-10-26 09:30:03,773] urllib3.util.retry DEBUG Converted retries value: 20 -> Retry(total=20, connect=None, read=None, redirect=None, status=None)
+[2022-10-26 09:30:03,776] urllib3.connectionpool DEBUG Starting new HTTP connection (1): 127.0.0.1:3221
+[2022-10-26 09:30:03,777] urllib3.connectionpool DEBUG http://127.0.0.1:3221 "GET / HTTP/1.1" 200 None
+[2022-10-26 09:30:03,777] pyhamilton.interface INFO dummy get request sent to server
+[2022-10-26 09:30:03,777] pyhamilton.interface INFO server thread exited
+[2022-10-26 09:30:03,777] root ERROR Traceback (most recent call last):
+[2022-10-26 09:30:03,778] root ERROR   File "C:\Users\stefa\GSK_pH_Module_Demo\ph_demo.py", line 27, in <module>
+[2022-10-26 09:30:03,778] root ERROR initialize(ham_int)
+[2022-10-26 09:30:03,778] root ERROR   File "c:\users\stefa\pyhamilton\pyhamilton\utils.py", line 47, in initialize
+[2022-10-26 09:30:03,779] root ERROR ham.wait_on_response(cmd, raise_first_exception=True, timeout=300)
+[2022-10-26 09:30:03,779] root ERROR   File "c:\users\stefa\pyhamilton\pyhamilton\interface.py", line 462, in wait_on_response
+[2022-10-26 09:30:03,779] root ERROR time.sleep(.1)
+[2022-10-26 09:30:03,779] root ERROR KeyboardInterrupt
+[2022-10-26 09:30:03,780] root ERROR During handling of the above exception, another exception occurred:
+[2022-10-26 09:30:03,780] root ERROR Traceback (most recent call last):
+[2022-10-26 09:30:03,780] root ERROR   File "C:\Users\stefa\GSK_pH_Module_Demo\ph_demo.py", line 60, in <module>
+[2022-10-26 09:30:03,780] root ERROR writer.writerow([key, value])
+[2022-10-26 09:30:03,780] root ERROR   File "c:\users\stefa\pyhamilton\pyhamilton\interface.py", line 378, in __exit__
+[2022-10-26 09:30:03,781] root ERROR self.stop()
+[2022-10-26 09:30:03,781] root ERROR   File "c:\users\stefa\pyhamilton\pyhamilton\interface.py", line 342, in stop
+[2022-10-26 09:30:03,781] root ERROR self.wait_on_response(self.send_command(command='end', id=hex(0)), timeout=1.5)
+[2022-10-26 09:30:03,781] root ERROR   File "c:\users\stefa\pyhamilton\pyhamilton\interface.py", line 462, in wait_on_response
+[2022-10-26 09:30:03,782] root ERROR time.sleep(.1)
+[2022-10-26 09:30:03,782] root ERROR KeyboardInterrupt
