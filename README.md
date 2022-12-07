@@ -1,4 +1,4 @@
-# GSK_pH_Module_Demo
+# pH_Module_Demo
 
 To use, run `py ph_demo.py` from the terminal.
 
